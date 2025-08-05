@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, I'm Jochem
 - 🔭 I’m currently working as Software Engineer at [Thales](https://www.tevel.nl/https://www.thalesgroup.com/en/countries/europe/netherlands)
-- 🌱 I’m currently learning about (GitHub) CoPilot integration into Qt!  
+- 🌱 I’m currently learning about radars!
 - 📫 How to reach me: On my [LinkedIn](https://www.linkedin.com/in/jagderoos/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I boulder a lot! I even work as routesetter at [Rijnboulder](https://mountain-network.nl/klimcentra/locaties/bouldercentrum-arnhem/)
