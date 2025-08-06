@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 - 👋 Hi, I'm Jochem
-- 🔭 I’m currently working as Software Engineer at [Thales](https://www.tevel.nl/https://www.thalesgroup.com/en/countries/europe/netherlands)
+- 🔭 I’m currently working as Radar Software Engineer at [Thales](https://www.tevel.nl/https://www.thalesgroup.com/en/countries/europe/netherlands)
 - 🌱 I’m currently learning about radars!
 - 📫 How to reach me: On my [LinkedIn](https://www.linkedin.com/in/jagderoos/)
 - 😄 Pronouns: he/him
